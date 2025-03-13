@@ -30,10 +30,10 @@
     },
      "lavalink": {
         "lavalink": {
-            "identifier": "Public Lavalink v4 NonSSL",
-            "password": "https://dsc.gg/ajidevserver",
-            "host": "lava-v4.ajieblogs.eu.org",
-            "port": 80,
+            "identifier": "Avinan",
+            "password": "pokemon",
+            "host": "new-york-node-1.vortexcloud.xyz",
+            "port": 9376,
             "secure": false
           }
     }, 
