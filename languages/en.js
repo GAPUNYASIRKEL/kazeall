@@ -52,7 +52,7 @@ const enLang = {
       serverCreatedOn: "Server Created On"
   },
   serverInfoError: "An error occurred while fetching server information.",
-  supportServerLink: "",
+  supportServerLink: "https://discord.gg/wyWmNUfv",
 
   // For subcommands
   serverIconTitle: "Server Icon",
@@ -61,12 +61,12 @@ const enLang = {
     // support.js
     supportDescription: "Support server of this Bot",
     supportTitle: "Support Server",
-    supportServerLink: "",
+    supportServerLink: "https://discord.gg/wyWmNUfv",
     githubLink: "Kaze",
     replitLink: "Kaze",
     youtubeLink: "Kaze",
     supportIconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1230824519220985896/6280-2.gif?ex=6638ae28&is=66375ca8&hm=13e4a1b91a95b2934a39de1876e66c11711c7b30ac1a91c2a158f2f2ed1c2fc6&',
-    supportImageURL: 'https://tenor.com/view/anime-frieren-ubel-gif-3448650655317006484',
+    supportImageURL: 'https://cdn.discordapp.com/attachments/847065469035085834/1350250131823530055/wallpaperflare.com_wallpaper.jpg?ex=67d60ded&is=67d4bc6d&hm=7d77b3bb7766dc586b0ebe430fe4edc2affb3afb8c23f9823b64e070a8316158&',
     supportDescriptionTitle: "Nothing Needs to be done",
     followUsOn: "Have Fun",
     discord: "Discord",
