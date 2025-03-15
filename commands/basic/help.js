@@ -9,11 +9,11 @@
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+DISCORD :  Kaze                   
+YouTube : Kaze                        
 
 Command Verified : ✓  
-Website        : ssrr.tech  
+Website        : Kz  
 Test Passed    : ✓
 
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
@@ -34,7 +34,7 @@ module.exports = {
     async execute(interaction) {
         if (interaction.isCommand && interaction.isCommand()) {
         
-            const BOT_ICON = "https://cdn.discordapp.com/emojis/1334648756649590805.png";
+            const BOT_ICON = "https://cdn.discordapp.com/avatars/909131326014234644/a_76b34e620ef2d95eef85102d84bb6be0.gif?size=1024";
             const EMBED_COLOR = "#3498db";
             const COMMANDS_DIR = path.join(__dirname, '../../commands');
             const EXCESS_COMMANDS_DIR = path.join(__dirname, '../../excesscommands');
@@ -125,7 +125,7 @@ module.exports = {
                 pages.push({
                     title: 'Bot Information',
                     description: [
-                        `- **Developer:** GlaceYT`,
+                        `- **Developer:** Kaze`,
                         `- **Version:** 1.2.1`,
                         `- **Commands Loaded:** ${totalCommandsLoaded}`,
                         `- **Master Commands:** ${masterCount}`,
@@ -134,7 +134,7 @@ module.exports = {
                         `- **Categories Enabled:** ${getEnabledCategories(config.categories).join(', ')}`,
                         `- **Prefix Commands:** ${Object.values(config.excessCommands).some(v => v) ? 'Enabled' : 'Disabled'}`
                     ].join('\n'),
-                    author: { name: 'All In One Bot' }
+                    author: { name: 'Komi-San' }
                 });
 
                 // Command Pages for each category
@@ -193,7 +193,7 @@ module.exports = {
                     .setAuthor({
                         name: page.author.name,
                         iconURL: BOT_ICON,
-                        url: "https://discord.gg/xQF9f9yUEM"
+                        url: "https://discord.gg/wyWmNUfv"
                     })
                     .setTimestamp();
 
@@ -304,7 +304,7 @@ module.exports = {
                 .setAuthor({
                     name: "Alert!",
                     iconURL: cmdIcons.dotIcon,
-                    url: "https://discord.gg/xQF9f9yUEM"
+                    url: "https://discord.gg/wyWmNUfv"
                 })
                 .setDescription('- This command can only be used through slash command!\n- Please use `/help`')
                 .setTimestamp();
@@ -324,11 +324,11 @@ module.exports = {
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+DISCORD :  https://discord.gg/wyWmNUfv                   
+YouTube : Kaze                         
 
 Command Verified : ✓  
-Website        : ssrr.tech  
+Website        : kazegntenk.com  
 Test Passed    : ✓
 
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
